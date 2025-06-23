@@ -18,17 +18,16 @@ A base de dados contêm os preços de todas as matérias-primas agrículas de 19
 1. Automação da conversão de tipos de dados
 
     Implementei um loop for que **identifica e armazena** automaticamente as colunas do tipo object para conversão posterior para float.
-
-    Motivação:
-    Evitar a digitação manual de todas as colunas, reduzindo erros e ganhando eficiência.
+    
+        Motivação: Evitar a digitação manual de todas as colunas, reduzindo erros e ganhando eficiência.
 
 2. Separação Automática entre colunas de Preços (Price) e de Percentual de Variação (% Change)
 
     Implementei um loop for que **identifica** quais colunas são referentes ao **Preço** da matéria prima e quais são referentes ao **Percentual de Variação**.
+    
     O filtro **armazena** as colunas em listas separadas, facilitando a criação de gráficos.
 
-    Motivação:
-    Evitar a digitação manual dessas colunas, reduzindo chances de erros e ganhando eficiênca
+        Motivação: Evitar a digitação manual dessas colunas, reduzindo chances de erros e ganhando eficiênca
 
 
 ## Insights e Visualizações:
