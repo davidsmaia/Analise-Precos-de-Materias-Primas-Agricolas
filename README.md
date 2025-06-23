@@ -51,7 +51,9 @@ A base de dados contêm os preços de todas as matérias-primas agrículas de 19
 ## Links Úteis: 
 
 [Vídeo tutorial da Data Marketing & AI](https://www.youtube.com/watch?v=Lv-Z2TE-usI)
+
 [Base de Dados Original na Kaggle](https://www.kaggle.com/datasets/kianwee/agricultural-raw-material-prices-19902020)
 
 [Plataforma Kaggle](https://www.kaggle.com/)
+
 [Canal Data Marketing & AI](https://www.youtube.com/@DataMarketing)
